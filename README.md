@@ -22,7 +22,7 @@
 
 ### Deploying To Heroku ⚙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dicyn/Azafuse-userbot)
+[![Deploy To Heroku](https://www.https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fdicyn%2FAzafuse-userbot)
 
 </details>
 
