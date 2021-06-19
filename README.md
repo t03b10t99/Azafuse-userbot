@@ -19,11 +19,10 @@
 
 ### The Easy Way
 
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dicyn/Azafuse-userbot" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+### Deploying To Heroku ⚙
 
-<h2 align="center"> <a href="https://github.com/dicyn/Azafuse-userbot">⚡ 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃 ⚡</a></h2>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dicyn/Azafuse-userbot)
 
 </details>
 
